@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Jair1020/Jair1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador entusiasta, motivado, creativo y orientado al equipo con experiencia en ingeniería petrolera. Dispuesto a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Adaptable, autodidacta y comunicativo, orientado con compromiso y dedicación a la resolución efectiva de problemas. He demostrado capacidad para trabajar bajo presión y estoy buscando una oportunidad donde pueda poner en práctica mis conocimientos y habilidades laborales.
 
-Here are some ideas to get you started:
+💻 Habilidades:
+  🎯 HTML5, CSS3, JavaScript.
+  🎯 GitHub
+  🎯 Reaccionar JS, Redux
+  🎯 Nodo JS, Express JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👥Habilidades blandas:
+🔹Organizado.
+🔹Colaborativo.
+🔹Autodidacta.
+🔹Aprendizaje activo
+🔹Curioso
+🔹Solucionador de problemas
+🔹Trabajo en equipo
+
+No dude en ponerse en contacto conmigo si tiene una oferta emocionante que nos ayude a ambos a crecer. 😃
+
+📧 correo electrónico: jair_p1020@hotmail.com
+
+
+<h3>🛠 Me gustaria aprender</h3>
+
+-🧠 &nbsp; Python | MongoDB | Angular |
+
+<span>👋 Contactame</span> &nbsp; <span> <a href="mailto:jair_p1020@hotmail.com?subject=PRUEBA&body=Hola!"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" /></a></span>  
